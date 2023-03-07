@@ -1,5 +1,7 @@
 # ReconnectMod
 
+![image](https://user-images.githubusercontent.com/20557088/223504011-e3761285-47d9-4883-a418-ba1172ba5019.png)
+
 A ChilloutVR mod that automatically reconnects you to the instance on "Invalid join ticket" message.
 
 ## Installation
